@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Enemy
+  - Checkpoint
+  - PowerUp
+  - Speed
+  - Door
+  - Bullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Wall
+  - Player
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3513478463
+    locked: 0
+  - name: Foreground
+    uniqueID: 3592855387
+    locked: 0
+  - name: Player
+    uniqueID: 2174503533
+    locked: 0
+  - name: Ground
+    uniqueID: 1062078277
+    locked: 0
+  - name: slider
+    uniqueID: 60443917
+    locked: 0
